@@ -1,0 +1,11 @@
+{
+    "callmods_5hmC.MODBAM" : "/private/nanopore/shnegi/hg002/v1.0/Shloka/ont_r10_ul_dorado/hg002v1.0_ont_r10_ul_dorado.pri.bam",
+    "callmods_5hmC.MODBAM_INDEX" : "/private/nanopore/shnegi/hg002/v1.0/Shloka/ont_r10_ul_dorado/hg002v1.0_ont_r10_ul_dorado.pri.bam.bai",
+    "callmods_5hmC.SAMPLE" : "HG002v1.0",
+    "callmods_5hmC.REF" : "/private/groups/migalab/jmmenend/ref/hg002_v1.0/hg002v1.0.fasta",
+    "callmods_5hmC.ML_HIST" : true,
+    "callmods_5hmC.GENOME_FILE" : "/private/groups/migalab/shnegi/pedigree_work/HG002_R10_UL/fasta/hg002v1.0.genomeFile.txt",
+    "callmods_5hmC.run_modkit.mod_thresholds" : "--mod-thresholds h:0.8",
+    "callmods_5hmC.run_modkit.hcmod_cov" : 1,
+    "callmods_5hmC.run_modkit.hcmod_perc" : 80
+}
