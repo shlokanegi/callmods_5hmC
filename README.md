@@ -1,4 +1,4 @@
-# Denovo SNPs
+# Callmods 5hmC workflow
 This workflow generates high-confidence 5hmC mod calls from an aligned modbam using modkit, and other stats and plots.
 
 ## Test locally
